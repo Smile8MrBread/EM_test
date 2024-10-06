@@ -1,0 +1,4 @@
+migrate:
+	go run app/cmd/migrator/main.go --config=app/config/local.yaml
+run:
+	go run app/cmd/main/main.go --config=app/config/local.yaml

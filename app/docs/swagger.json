@@ -1,0 +1,12 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "API Server for EffectiveMobile",
+        "title": "Test_EM",
+        "contact": {},
+        "version": "0.0.1"
+    },
+    "host": "localhost:8080",
+    "basePath": "/",
+    "paths": {}
+}
